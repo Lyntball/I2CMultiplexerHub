@@ -1,0 +1,21 @@
+Per PCB:
+TCA9548A (TSSOP24) - 1  $1.51/Each = $1.51
+RJ45 Circuit Board Mount - 10  $1.07/Each = $10.70
+LED-Green 0603SMD - 11  $0.14/Each = $1.54
+150 Ohm Resistor 0603SMD - 11  $0.06/Each = $0.66
+2.1 Circuit Board Mount Barrel Jack - 1  $0.95/Each = $0.95
+10 KOhm Resistor 0603SMD - 6   $0.10/Each = $0.60
+10 uF Capacitor - 1   $0.14/Each = $0.14
+3.3 Voltage Regulator (SOT-223) - 10   $0.33/Each = $3.30
+PCB - 7.824 = $7.82
+
+$27.20 Total
+
+5
+50
+55
+55
+5
+30
+5
+50
